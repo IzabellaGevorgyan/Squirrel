@@ -1,0 +1,2 @@
+# Squirrel
+Pure HTML/CSS
